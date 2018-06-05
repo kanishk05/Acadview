@@ -1,0 +1,20 @@
+Git: Git is a VCS(Version Control System) used for tracking changes in computer files and primarily used for source code management in software development.
+
+GitHub: It is a web based Git repository. It provides various services like the cloud to store our code and also allows to intract with other developers.
+
+
+Commands:
+git init : It is used to initialize a git repo. It tells the git that we need its service. It creates a new local repository.
+
+git status : Shows the status of our repository. It lists the files that we have changed and which are still needs to be commit.
+
+git add : Updates from remote repository. It tells git to track our changes.
+
+git commit -m : Commit the changes, commit generaly means creating a checkpoint.
+
+git config --global user.name : It configures the name which is to be used with the commits.
+
+git confg --global user.email : It configures the
+email address which is to be used with the commits.
+
+git push : Uploads project to the cloud or github account.
